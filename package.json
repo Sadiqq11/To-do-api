@@ -1,0 +1,14 @@
+{
+  "name": "to-do-api",
+  "version": "1.0.0",
+  "description": "My first node api<API>\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[CTodo API>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abubakar Sadiq Ishaq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
